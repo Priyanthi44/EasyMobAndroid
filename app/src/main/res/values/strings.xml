@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Easy Valet Parking</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_get_quote">Get a Quote</string>
+    <string name="title_activity_display_price">Display Price</string>
+    <string name="title_activity_add_vehicle">Add Vehicle</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_add_payment">Add Payment</string>
+    <string name="title_activity_notification">Notification</string>
+    <string name="title_activity_collection">Collection</string>
+    <string name="title_activity_contact_us">Contact Us</string>
+    <string name="title_activity_manage_vehicles">Manage Vehicles</string>
+<string-array name ="ap">
+    <item name ="LHR">LHR</item>
+    <item name ="LGW">LGW</item>
+    <item name ="H/L">H/L</item>
+</string-array>
+    <string-array name ="tl">
+        <item name ="1">1</item>
+        <item  name ="2">2</item>
+        <item name ="3">3</item>
+            <item name ="4">4</item>
+            <item name ="5">5</item>
+
+
+    </string-array>
+</resources>
